@@ -15,7 +15,7 @@
 #### Acceso al proyecto---npm run dev----
 
 ### Estructura del proyecto:
-
+*******************************************************
 |entrega1|
               |node_modules|
               |src|
@@ -31,3 +31,4 @@
               |package-lock.json|
               |package.json|
               |README.md|   
+*********************************************************
