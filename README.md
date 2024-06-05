@@ -30,6 +30,6 @@
               |.gitignore| 
               |package-lock.json|
               |package.json|
-              |READ.md|                 
+              |README.md|                 
                                                   
              
