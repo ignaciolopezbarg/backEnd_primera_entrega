@@ -59,8 +59,8 @@ router.delete("/:id", (req, res) => {
 
 //Ruta que no esta definida, da un aviso:
 router.get('*', (req,res)=>{
-    res.status(404)
-    res.send('ruta no definida')
+    res.status(404).send('Ruta no definida')
+    
 })
 
 
