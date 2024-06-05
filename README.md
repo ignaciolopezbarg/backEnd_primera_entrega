@@ -16,18 +16,18 @@
 
 ### Estructura del proyecto:
 
-####|entrega1|
-            ####  |node_modules|
-          ####    |src|
-                 ####   |public| 
-                ####          _|index.html|
-                  ####        _|css|
-                   ####            |stylesheet| 
-                 ####   |routes|
-                  ####         |carts.routes.js|
-                  ####         |products.routes.js|
-             ####       |app.js|
-        ####      |.gitignore| 
-       ####       |package-lock.json|
-       ####       |package.json|
-       ####       |README.md|   
+|entrega1|
+              |node_modules|
+              |src|
+                   |public| 
+                          |index.html|
+                          |css|
+                          |stylesheet.css| 
+                    |routes|
+                           |carts.routes.js|
+                           |products.routes.js|
+                    |app.js|
+              |.gitignore| 
+              |package-lock.json|
+              |package.json|
+              |README.md|   
